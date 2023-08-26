@@ -3,7 +3,7 @@
 
 ### Osnovni podaci
   - autor: Stefan Jevtić mi20187
-  - profesor: prof. dr. Nenad Mitić
+  - profesor: prof. dr Nenad Mitić
   - asistent: Marija Erić
 
 ### Korišćen skup podataka
