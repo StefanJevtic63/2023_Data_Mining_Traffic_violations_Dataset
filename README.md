@@ -1,15 +1,29 @@
-# Projekat iz Istraživanja podataka 1, Matematički fakultet
+# University course project on Faculty of Mathematics
 ## Traffic violations
 
-### Osnovni podaci
-  - autor: Stefan Jevtić mi20187
-  - profesor: prof. dr Nenad Mitić
-  - asistent: Marija Erić
+### Project author
+  - author: Stefan Jevtić mi20187
+  - professor: Prof. Dr. Nenad Mitić
+  - teaching assistant: Marija Erić
 
-### Korišćen skup podataka
+### Dataset used in this project
 [Traffic violations](https://www.openml.org/search?type=data&sort=nr_of_downloads&status=active&qualities.NumberOfInstances=between_1000_10000&qualities.NumberOfFeatures=between_10_100&qualities.NumberOfClasses=gte_2&id=42345)
 
-### Neophodne biblioteke
+### Basic information
+  - Preprocessing
+    * Exploratory analysis
+  - Classification
+    * KNN
+    * SVM
+    * Decision tree
+  - Clustering
+    * K means
+    * Hierachical clustering
+    * DBSCAN
+  - Association rules
+    * Apriori
+
+### Necessary libraries
 numpy: `pip install numpy` <br>
 pandas: `pip install pandas`<br>
 sklearn: `pip install scikit-learn`<br>
@@ -21,5 +35,5 @@ termcolor: `pip install termcolor`<br>
 imblearn: `pip install imblearn`<br>
 fcmeans: `pip install fuzzy-c-means`<br>
 
-### Napomena
-Pre pokretanja modela, neophodno je prvo pokrenuti `preprocessing.ipynb`
+### Note
+Before running the model, it's necessary to run `preprocessing.ipynb`
