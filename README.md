@@ -1,4 +1,4 @@
-# University course project on Faculty of Mathematics
+# University course project on Faculty of Mathematics, University of Belgrade
 ## Traffic violations
 
 ### Project author
